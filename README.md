@@ -50,7 +50,7 @@ java -jar ./target/email-springboot-0.0.1-SNAPSHOT.jar
 
 <h2 id="routes">📍 API Endpoints</h2>
 
-Here you can list the main routes of your API, and what are their expected request bodies.
+Aqui você lista as suas rotas/endpoints e mostra as requisições e respostas esperadas
 ​
 
 <h3 id="get-auth-detail">GET /product</h3>
